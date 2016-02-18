@@ -4,7 +4,7 @@ Uses a convolutional neural network to saturate black and white videos.
 
 ### Installation
 
-First, make sure that you have both ffmpeg and tensorflow installed.
+First, make sure that you have both ffmpeg and tensorflow installed.  
 From there, you'll need to torrent the [VGG16 Tensorflow model](http://tinyclouds.org/colorize/colorize-20160110.tgz.torrent).
 Finally, run:
 ```
